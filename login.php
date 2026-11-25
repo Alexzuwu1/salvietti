@@ -183,9 +183,9 @@
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                         <a class="nav-link mx-3 text-dark" href="http://localhost/proyecto_salvietti/salvietti/index.php">Inicio</a>
-                        <a class="nav-link mx-3 text-dark" href="#">Productos</a>
+                        <a class="nav-link mx-3 text-dark" href="http://localhost/proyecto_salvietti/salvietti/productos.php">Productos</a>
                         <a class="nav-link mx-3 text-dark" href="http://localhost/proyecto_salvietti/salvietti/login.php">Registro de Usuarios</a>
-                        <a class="nav-link mx-3 text-dark" href="#">Inventario</a>
+                        <a class="nav-link mx-3 text-dark" href="http://localhost/proyecto_salvietti/salvietti/inventario.php">Inventario</a>
                     </div>
                 </div>
             </div>
